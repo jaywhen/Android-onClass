@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fuzz</string>
+    <string name="login_btn">Login</string>
+    <string name="username_txt">Username</string>
+    <string name="password_txt">Password</string>
+    <string name="avatar_desc">avatar</string>
+    <string name="version_info">version 0.1 Made with ❤ by jaywhen</string>
+</resources>
