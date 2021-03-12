@@ -5,4 +5,7 @@
     <string name="password_txt">Password</string>
     <string name="avatar_desc">avatar</string>
     <string name="version_info">version 0.1 Made with ❤ by jaywhen</string>
+    <string name="title_activity_life_cycle">LifeCycleActivity</string>
+    <string name="life_cycle_btn">Quit App</string>
+    <string name="life_cycle_txt">Hello</string>
 </resources>
