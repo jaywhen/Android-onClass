@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Regitered</string>
+    <string name="radio_btn_man">男</string>
+    <string name="radio_btn_woman">女</string>
+    <string name="checkbox_hab_reading">读书</string>
+    <string name="checkbox_hab_ball">打球</string>
+    <string name="checkbox_hab_music">听音乐</string>
+    <string name="registered_btn">注册</string>
+    <string name="edit_text_phone">Phone</string>
+    <string name="edit_text_password">Password</string>
+    <string name="text_2">Hello</string>
+</resources>
